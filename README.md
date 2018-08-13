@@ -21,9 +21,9 @@
 *  把```abc.txt``` 放到数据库中运行即可，可通过命令行导入
   source f:\abc.txt
   
-* 若```abc.txt``` 不知如何处理，那么可放在```Xcode```内先读取，截取，然后再插入数据库;详见ReadExcelDataDemon。
+* 若```abc.txt``` 不知如何处理，那么可放在```Xcode```内先读取，截取，然后再插入数据库;详见ReadExcelDataDemo。
 
-#### demon截图
+#### demo截图
 
   ![image](https://github.com/XiaoMingZhiDao/ReadExcelData/blob/master/1.png)
 
@@ -33,7 +33,7 @@
 
   ![image](https://github.com/XiaoMingZhiDao/ReadExcelData/blob/master/4.png)
   
-### demon 调用方法如下
+### demo 调用方法如下
 
 * 写入数据
 ``` objc
